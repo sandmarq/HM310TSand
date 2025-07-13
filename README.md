@@ -32,7 +32,7 @@ source .venv/bin/activate  # ou 'source .venv/bin/activate.fish' pour Fish
 ### Installer les dépendances / Install dependencies
 
 ```bash
-pip install --no-cache-dir -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## ⚙️ Configuration (.env)
